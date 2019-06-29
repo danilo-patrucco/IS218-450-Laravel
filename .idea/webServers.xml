@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d9f37545-08c4-4603-8275-f7df94f2712b" name="localhost" url="http://localhost/IS218-450-Laravel">
+        <fileTransfer port="0" mountedRoot="D:\xampp\htdocs\IS218-450-Laravel" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
